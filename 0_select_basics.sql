@@ -8,7 +8,7 @@
 
 -- 3
   SELECT name, population FROM world
-    WHERE name IN ('Ireland','Iceland','Denmark');
+    WHERE name IN ('Norway','Sweden','Denmark');
 
 -- 4
   SELECT name, area FROM world
